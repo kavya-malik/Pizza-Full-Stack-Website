@@ -1,0 +1,11 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('b.jpg'); /* Path to your background image */
+    background-size: cover; /* Make sure the background covers the whole page */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    height: 100vh; /* Full height of the screen */
+    margin: 0;
+    display: flex;
+}
